@@ -39,7 +39,7 @@ From building optimized search algorithms for e-commerce platforms to developing
 - Practical usage of **Java collections, sorting, and comparators** to manage complex datasets.  
 - Understanding and applying **software design patterns** to write clean, reusable, and scalable code.
 
----
+
 
 -**Week 2:**
 Diving deeper into backend robustness and testing best practices, Week 2 is centered around database programming, unit testing frameworks, and effective logging.
@@ -50,5 +50,5 @@ Diving deeper into backend robustness and testing best practices, Week 2 is cent
 -Integration of SLF4J logging framework to enable consistent, level-based logging practices that facilitate better monitoring, debugging, and audit trails in Java applications.
 -This week focuses on bridging the gap between development and quality assurance by embedding testing and logging deeply within the coding workflow—empowering the creation of resilient, testable, and maintainable Java applications.
 
-
+---
 
