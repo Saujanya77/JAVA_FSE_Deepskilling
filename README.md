@@ -23,8 +23,8 @@ From building optimized search algorithms for e-commerce platforms to developing
 - **Week 2:**
 - Hands-on work with PL/SQL scripting and control structures, deepening database programming skills. Extensive use of JUnit 5 to write unit tests following Test-Driven Development (TDD) best practices for improved code quality and reliability. Integration of SLF4J for structured logging to assist debugging and application monitoring. Focus on developing robust, testable, and maintainable Java backend components
 
-- **Week 3**:
-Deep dive into Spring Core, Spring IoC container, and advanced Spring Boot concepts with Maven integration.Focus on mastering Dependency Injection using both XML-based and annotation-based configurations, understanding different injection styles (setter vs constructor), and practical implementation of Spring Boot with Spring Data JPA and REST APIs.Reinforced backend skills through building a complete Library Management System and advanced Country Management Service, using real-time database operations and integrating H2 and MySQL databases.
+- **Week 3:**
+- Deep dive into Spring Core, Spring IoC container, and advanced Spring Boot concepts with Maven integration.Focus on mastering Dependency Injection using both XML-based and annotation-based configurations, understanding different injection styles (setter vs constructor), and practical implementation of Spring Boot with Spring Data JPA and REST APIs.Reinforced backend skills through building a complete Library Management System and advanced Country Management Service, using real-time database operations and integrating H2 and MySQL databases.
   
 
 - **Additional Weeks:**  
