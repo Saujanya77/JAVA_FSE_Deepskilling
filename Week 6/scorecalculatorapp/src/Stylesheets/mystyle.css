@@ -1,0 +1,48 @@
+.container {
+  text-align: center;
+  margin-top: 40px;
+  font-family: Arial, sans-serif;
+}
+
+.heading {
+  color: maroon;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.label {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.value {
+  font-size: 18px;
+}
+
+.blue {
+  color: blue;
+}
+
+.lightblue {
+  color: lightblue;
+}
+
+.red {
+  color: red;
+}
+
+.pink {
+  color: hotpink;
+}
+
+.darkpink {
+  color: deeppink;
+}
+
+.green {
+  color: green;
+}
+
+.lightgreen {
+  color: lightgreen;
+}
