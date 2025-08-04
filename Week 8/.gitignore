@@ -1,2 +1,3 @@
 *.log     # ignore any file ending with .log
 log/      # ignore any folder whose name is exactly log
+*.orig
